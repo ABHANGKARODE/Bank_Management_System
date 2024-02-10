@@ -5,9 +5,13 @@ The Bank Management System is a Python program designed to facilitate basic bank
 
 
 Features
+
 🧑‍🤝‍🧑 Create and manage customer accounts
+
 💰 Perform deposit and withdrawal transactions
+
 ⚖️ Check account balances
+
 🚫 Handle invalid transaction types and insufficient funds scenarios
 Descriptive Details :
 - Customer Management: The system allows the creation of customer accounts with unique identifiers and names.
